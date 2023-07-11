@@ -32,4 +32,4 @@ Feel free to get in touch with me through [your preferred contact methods here].
 
 ## GitHub Statistics
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxjspaulding&show_icons=true&theme=radical)
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitphreak&show_icons=true&theme=radical)
