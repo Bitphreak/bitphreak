@@ -22,7 +22,7 @@ In the future, I aim to [describe your goals here].
 
 ## Contact Me
 
-Feel free to get in touch with me through [Linkedin](https://www.linkedin.com/in/maxjspaulding) | [My Blog](https://www.bitphreak.dev) | [My Calling Card] (https://www.maxjspaulding.com)
+Feel free to get in touch with me through [Linkedin](https://www.linkedin.com/in/maxjspaulding) | [My Blog](https://www.bitphreak.dev) | [My Calling Card](https://www.maxjspaulding.com)
 
 ## GitHub Statistics
 
